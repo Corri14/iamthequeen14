@@ -12,10 +12,9 @@ img {
 body, h1{
     font-family: "Architects Daughter", Arial, Helvetica, sans-serif;
     font-size: xx-large;
-}body{
     text-align:center;
     font-family:"Arial";
-    background:red;
+    background:rgb(218, 215, 215);
     color: blue; 
 
 }
